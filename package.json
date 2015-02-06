@@ -1,0 +1,28 @@
+{
+  "name": "draw-selection",
+  "version": "1.0.0",
+  "description": "A node module for drawing boxes around a DOM selection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Lakenen <cameron@lakenen.com>",
+  "license": "MIT",
+  "dependencies": {
+    "extend": "^2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lakenen/draw-selection.git"
+  },
+  "keywords": [
+    "selection",
+    "range",
+    "DOM"
+  ],
+  "bugs": {
+    "url": "https://github.com/lakenen/draw-selection/issues"
+  },
+  "homepage": "https://github.com/lakenen/draw-selection"
+}
